@@ -1,5 +1,6 @@
 <?php
 
-echo 'Ove je tek kraj pocetka';
+echo 'Ovo je tek kraj pocetka';
 
+echo 'hghg';
 ?>
